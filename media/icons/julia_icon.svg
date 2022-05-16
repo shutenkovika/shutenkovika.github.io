@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="Julia" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-rx="15%"
-fill="#fff"/><circle fill="#389826" cx="256" cy="137" r="83"/><circle fill="#cb3c33" cx="145" cy="329" r="83"/><circle fill="#9558b2" cx="367" cy="329" r="83"/></svg>
+<svg id="SvgjsSvg1014" width="288" height="288" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs"><defs id="SvgjsDefs1015"></defs><g id="SvgjsG1016"><svg xmlns="http://www.w3.org/2000/svg" aria-label="Julia" viewBox="0 0 512 512" width="288" height="288"><rect width="512" height="512" fill="#ffffff" rx="15%" class="colorfff svgShape"></rect><circle cx="256" cy="137" r="83" fill="#1465b9" class="color389826 svgShape"></circle><circle cx="145" cy="329" r="83" fill="#1465b9" class="colorcb3c33 svgShape"></circle><circle cx="367" cy="329" r="83" fill="#1465b9" class="color9558b2 svgShape"></circle></svg></g></svg>
