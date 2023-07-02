@@ -20,5 +20,13 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Hello, World!</title>
+      <link>https://shutenkovika.github.io/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://shutenkovika.github.io/post/getting-started/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
