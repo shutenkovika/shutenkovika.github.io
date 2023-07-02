@@ -44,16 +44,6 @@
       href="https://shutenkovika.github.io/categories/"
     /></url>
   <url>
-    <loc>https://shutenkovika.github.io/category/demo/</loc><lastmod>2023-06-30T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://shutenkovika.github.io/ru/category/demo/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://shutenkovika.github.io/category/demo/"
-    /></url>
-  <url>
     <loc>https://shutenkovika.github.io/post/graduation/graduation/</loc><lastmod>2023-06-30T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="ru"
@@ -63,6 +53,8 @@
       hreflang="en"
       href="https://shutenkovika.github.io/post/graduation/graduation/"
     /></url>
+  <url>
+    <loc>https://shutenkovika.github.io/category/posts/</loc><lastmod>2023-06-30T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://shutenkovika.github.io/post/</loc><lastmod>2023-06-30T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
@@ -92,6 +84,16 @@
       rel="alternate"
       hreflang="en"
       href=""
+    /></url>
+  <url>
+    <loc>https://shutenkovika.github.io/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://shutenkovika.github.io/ru/category/demo/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://shutenkovika.github.io/category/demo/"
     /></url>
   <url>
     <loc>https://shutenkovika.github.io/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link

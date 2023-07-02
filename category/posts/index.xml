@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Academic</title>
+    <link>https://shutenkovika.github.io/category/posts/</link>
+      <atom:link href="https://shutenkovika.github.io/category/posts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shutenkovika.github.io/media/icon_hua1b0a5594db68af74df8f8c0341a1e6e_63125_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://shutenkovika.github.io/category/posts/</link>
+    </image>
+    
+    <item>
+      <title>Grаduation</title>
+      <link>https://shutenkovika.github.io/post/graduation/graduation/</link>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://shutenkovika.github.io/post/graduation/graduation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
