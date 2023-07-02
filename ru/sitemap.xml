@@ -4,7 +4,7 @@
   
   
   <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
+    <loc></loc><lastmod>2023-06-30T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
       href=""
@@ -14,7 +14,7 @@
       href=""
     /></url>
   <url>
-    <loc>https://shutenkovika.github.io/ru/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
+    <loc>https://shutenkovika.github.io/ru/tag/academic/</loc><lastmod>2023-06-30T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://shutenkovika.github.io/tag/academic/"
@@ -24,7 +24,7 @@
       href="https://shutenkovika.github.io/ru/tag/academic/"
     /></url>
   <url>
-    <loc>https://shutenkovika.github.io/ru/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
+    <loc>https://shutenkovika.github.io/ru/categories/</loc><lastmod>2023-06-30T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://shutenkovika.github.io/categories/"
@@ -34,7 +34,7 @@
       href="https://shutenkovika.github.io/ru/categories/"
     /></url>
   <url>
-    <loc>https://shutenkovika.github.io/ru/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
+    <loc>https://shutenkovika.github.io/ru/category/demo/</loc><lastmod>2023-06-30T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://shutenkovika.github.io/category/demo/"
@@ -42,6 +42,56 @@
       rel="alternate"
       hreflang="ru"
       href="https://shutenkovika.github.io/ru/category/demo/"
+    /></url>
+  <url>
+    <loc>https://shutenkovika.github.io/ru/post/</loc><lastmod>2023-06-30T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://shutenkovika.github.io/post/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://shutenkovika.github.io/ru/post/"
+    /></url>
+  <url>
+    <loc>https://shutenkovika.github.io/ru/tags/</loc><lastmod>2023-06-30T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://shutenkovika.github.io/tags/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://shutenkovika.github.io/ru/tags/"
+    /></url>
+  <url>
+    <loc></loc><lastmod>2023-06-30T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href=""
+    /></url>
+  <url>
+    <loc>https://shutenkovika.github.io/ru/post/graduation/graduation/</loc><lastmod>2023-06-30T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://shutenkovika.github.io/post/graduation/graduation/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://shutenkovika.github.io/ru/post/graduation/graduation/"
+    /></url>
+  <url>
+    <loc>https://shutenkovika.github.io/ru/</loc><lastmod>2023-06-30T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://shutenkovika.github.io/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://shutenkovika.github.io/ru/"
     /></url>
   <url>
     <loc>https://shutenkovika.github.io/ru/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
@@ -52,46 +102,6 @@
       rel="alternate"
       hreflang="ru"
       href="https://shutenkovika.github.io/ru/post/getting-started/"
-    /></url>
-  <url>
-    <loc>https://shutenkovika.github.io/ru/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://shutenkovika.github.io/post/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://shutenkovika.github.io/ru/post/"
-    /></url>
-  <url>
-    <loc>https://shutenkovika.github.io/ru/tags/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://shutenkovika.github.io/tags/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://shutenkovika.github.io/ru/tags/"
-    /></url>
-  <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /></url>
-  <url>
-    <loc>https://shutenkovika.github.io/ru/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://shutenkovika.github.io/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://shutenkovika.github.io/ru/"
     /></url>
   <url>
     <loc>https://shutenkovika.github.io/ru/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><xhtml:link

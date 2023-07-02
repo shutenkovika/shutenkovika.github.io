@@ -5,12 +5,20 @@
     <link>https://shutenkovika.github.io/ru/category/demo/</link>
       <atom:link href="https://shutenkovika.github.io/ru/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Fri, 30 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shutenkovika.github.io/media/icon_hua1b0a5594db68af74df8f8c0341a1e6e_63125_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
       <link>https://shutenkovika.github.io/ru/category/demo/</link>
     </image>
+    
+    <item>
+      <title>Получение диплома бакалавра</title>
+      <link>https://shutenkovika.github.io/ru/post/graduation/graduation/</link>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://shutenkovika.github.io/ru/post/graduation/graduation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hello, World!</title>
